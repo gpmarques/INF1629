@@ -21,7 +21,8 @@ Autor: Guilherme Marques
 
 Data: 10/04/2017
 
-
+ -------------------
+ 
 - Diagrama.pdf: arquivo que contém o diagrama que descreve as funções do programa.
 
 Autor: Guilherme Marques

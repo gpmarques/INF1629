@@ -9,11 +9,13 @@
 
 ## Conteúdo do repositório:
 
+ -------------------
+
 - README.md: arquivo que contém a descrição do repositório
 
 - Main.lua: arquivo que contém código relacionado a inicialização da aplicação
 
-- Random.lua: arquivo que contém código relacionado geração de números aleatórios
+- Random.lua: arquivo que contém código relacionado a geração de números aleatórios
 
 - IO.lua: arquivo que contém código relacionado ao gerenciamento de inputs e outputs
 

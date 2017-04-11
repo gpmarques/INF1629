@@ -21,7 +21,15 @@ Autor: Guilherme Marques
 
 Data: 10/04/2017
 
+- Diagrama.pdf: arquivo que contém o diagrama que descreve as funções do programa.
+
+Autor: Guilherme Marques
+
+Data: 11/04/2017
+
 ## Livro diário:
 
 **10/04/2017:** Estudo de lua, criação dos módulos e suas pré e pós condições.
+
+**11/04/2017:** Criação do arquivo diagrama.pdf.
 
